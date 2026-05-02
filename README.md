@@ -232,11 +232,7 @@ Shows the custom WebSocket rate limiter rejecting rapid checkbox toggles after m
 
 ![Rate limit message after rapid checkbox toggles](screenshots/rate-limit.png)
 
-## Submission Links
 
-- GitHub repository: add your public repo link here
-- Live deployed link: add if available
-- YouTube unlisted demo: add your YouTube link here
 
 ## Future Improvements
 
