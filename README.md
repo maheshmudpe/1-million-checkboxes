@@ -224,7 +224,7 @@ Shows the large checkbox grid loading in chunks while the user is connected in r
 
 Shows two logged-in users connected at the same time. Checkbox updates are synced between both browser windows through WebSockets and Redis Pub/Sub.
 
-![Two browser windows showing real-time checkbox sync](screenshots/realtime.png)
+![Two browser windows showing real-time checkbox sync](screenshots/real-time.png)
 
 ### Rate Limiting
 
